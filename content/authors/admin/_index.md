@@ -21,9 +21,9 @@ interests:
 - Information Retrieval
 last_name: Wu
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: LACIS/UW-Madison
+  url: https://lacis.wisc.edu/
+role: MA Student/Data Advisor
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,10 +47,10 @@ social:
   icon_pack: ai
   link: uploads/resume.pdf
 status:
-  icon: ☕️
+  icon:
 superuser: true
-title: Alice Wu 吳恩達
+title: Álvaro Cabrera
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is Álvaro Cabrera, and incoming MA LACIS student at the University of Wisconsin-Madison. For entertaining purposes, I'm learning how to code a website. In the meantime, you'll probably see either my dog, Hugo, or my girlfriend's Romeo at the website.
 {style="text-align: justify;"}
