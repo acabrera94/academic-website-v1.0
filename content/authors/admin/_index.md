@@ -52,5 +52,8 @@ superuser: true
 title: Álvaro Cabrera
 ---
 
-Hi, my name is **Álvaro Cabrera**, an incoming **Master's in Latin American, Caribbean, and Iberian Studies** student at the **University of Wisconsin-Madison**. For entertaining purposes, I'm learning how to code a website. In the meantime, you'll probably see either my dog, Hugo, or my girlfriend's, Romeo, at the website.
+Hi, my name is **Álvaro Cabrera**, an incoming **Master's in Latin American, Caribbean, and Iberian Studies** student at the **University of Wisconsin-Madison**. My research interests are broadly connected by **Political Sociology, Social Change, and Social movements**, particularly their interactions with **capitalism**.
+
+
+For entertaining purposes, I'm learning how to code a website. In the meantime, you'll probably see either my dog, Hugo, or my girlfriend's, Romeo, at the website.
 {style="text-align: justify;"}
