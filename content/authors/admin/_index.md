@@ -33,16 +33,16 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/alvarocabrera94
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=RpY_rN0AAAAJ&hl=es&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/acabrera94
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/acbm94/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
@@ -52,5 +52,5 @@ superuser: true
 title: Álvaro Cabrera
 ---
 
-Hi, my name is Álvaro Cabrera, and incoming MA LACIS student at the University of Wisconsin-Madison. For entertaining purposes, I'm learning how to code a website. In the meantime, you'll probably see either my dog, Hugo, or my girlfriend's Romeo at the website.
+Hi, my name is Álvaro Cabrera, and incoming MA LACIS student at the University of Wisconsin-Madison. For entertaining purposes, I'm learning how to code a website. In the meantime, you'll probably see either my dog, Hugo, or my girlfriend's, Romeo, at the website.
 {style="text-align: justify;"}
