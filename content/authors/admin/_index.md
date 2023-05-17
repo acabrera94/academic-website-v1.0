@@ -52,5 +52,5 @@ superuser: true
 title: Álvaro Cabrera
 ---
 
-Hi, my name is Álvaro Cabrera, and incoming MA LACIS student at the University of Wisconsin-Madison. For entertaining purposes, I'm learning how to code a website. In the meantime, you'll probably see either my dog, Hugo, or my girlfriend's, Romeo, at the website.
+Hi, my name is ***Álvaro Cabrera***, an incoming MA LACIS student at the University of Wisconsin-Madison. For entertaining purposes, I'm learning how to code a website. In the meantime, you'll probably see either my dog, Hugo, or my girlfriend's, Romeo, at the website.
 {style="text-align: justify;"}
