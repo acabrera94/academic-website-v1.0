@@ -23,10 +23,18 @@
 {{ $caption := .Get "caption" }}
 
 {{ $is_remote := strings.HasPrefix $src "http" }}
-{{ if not $is_remote }}
-  {{ $src = path.Join  "content" $.Page.File.Dir $src }}
+{{ $resource := "" }}
+{{ if $is_remote }}
+  {{ $resource = resources.GetRemote $src }}
+{{ else }}
+  {{ $resource = $.Page.Resources.Get $src }}
 {{ end }}
-{{ $rows := getCSV $delimiter $src }}
+{{ $rows := slice }}
+{{ with $resource }}
+  {{ $rows = transform.Unmarshal (dict "delimiter" $delimiter) .Content }}
+{{ else }}
+  {{ errorf "Table shortcode: could not find %q" $src }}
+{{ end }}
 
 <table class="table">
   {{ if $useHeaderRow }}

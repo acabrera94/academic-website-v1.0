@@ -17,7 +17,7 @@
     {{- else if .Params.abstract -}}
       {{- $desc = .Params.abstract -}}
     {{- else -}}
-      {{- $desc = .Summary -}}
+      {{- $desc = .Summary | plainify | htmlUnescape | replaceRE "\\s+" " " | strings.TrimSpace -}}
     {{- end -}}
 
     {{- $authors := .Params.authors -}}
