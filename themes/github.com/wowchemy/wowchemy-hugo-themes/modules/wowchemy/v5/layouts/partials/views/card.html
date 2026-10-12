@@ -17,7 +17,7 @@
 {{ else if $item.Params.abstract }}
   {{ $summary = $item.Params.abstract | markdownify | emojify }}
 {{ else if $item.Summary }}
-  {{ $summary = $item.Summary }}
+  {{ $summary = $item.Summary | plainify | htmlUnescape | replaceRE "\\s+" " " | strings.TrimSpace }}
 {{ end }}
 
 <div class="card-simple view-card">
