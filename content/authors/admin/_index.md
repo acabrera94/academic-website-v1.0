@@ -1,25 +1,22 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: XXXXXXXX.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Sociology
+    institution: University of Michigan
+    year: "2029-preseent""
+  - course: MA in Latin American, Caribbean, and Iberian Studies
+    institution: University of Wisconsin-Madison
+    year: "2024""
 email: ""
-first_name: Alice
+first_name: Álvaro
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Economic Sociology
+- Political Sociology
+- Quantitative Methodology
+- Comparative-Historical Methodology
+last_name: Cabrera
 organizations:
 - name: University of Michigan
   url: https://lsa.umich.edu/soc/people/current-graduate-students/alvaro-cabrera.html
