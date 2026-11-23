@@ -21,9 +21,9 @@ interests:
 - Information Retrieval
 last_name: Wu
 organizations:
-- name: LACIS/UW-Madison
-  url: https://lacis.wisc.edu/
-role: MA Student/Data Advisor
+- name: University of Michigan
+  url: https://lsa.umich.edu/soc/people/current-graduate-students/alvaro-cabrera.html
+role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,9 +52,9 @@ superuser: true
 title: Álvaro Cabrera
 ---
 
-Hi, my name is **Álvaro Cabrera**, an incoming **Master's in Latin American, Caribbean, and Iberian Studies** student at the **University of Wisconsin-Madison**. I am convinced that the only way to change things for those who do not hold economic power is politics. Hence, it is no surprise that my **research interests** are broadly connected by **political sociology, social change, and labor**.
+Hello there! My name is **Álvaro Cabrera**, a **PhD candidate in Sociology** at the **University of Michigan, Ann Arbor**. My **research interests** are broadly aligned with economic and political sociology, particularly social class and capitalism as an economic system. 
 {style="text-align: justify;"}
 
 
-For entertaining purposes, I'm learning how to code a website. In the meantime, you'll probably see either my dog, Hugo, or my girlfriend's, Romeo, at the website.
+In my free time I like to lift weights, play and watch football (soccer), and have a few drinks when the opportunity arises.
 {style="text-align: justify;"}
