@@ -6,7 +6,7 @@
 {{ $block := .block }}
 
 {{ $block_type := lower $block.block | default "markdown" }}
-{{ $block_path := printf "blocks/%s.html" $block_type }}
+{{ $block_path := printf "blocks/%s.html" (replace $block_type "." "_") }}
 {{ if not (templates.Exists (printf "partials/%s" $block_path)) }}
   {{ errorf "%s uses a `%s` block but the `%s` block was not found at `layouts/partials/%s`" $block.File.Path $block_type $block_type $block_path }}
 {{ end }}

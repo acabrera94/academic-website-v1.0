@@ -4,10 +4,10 @@ education:
   courses:
   - course: PhD in Sociology
     institution: University of Michigan
-    year: "2029-preseent""
+    year: "2024–present"
   - course: MA in Latin American, Caribbean, and Iberian Studies
     institution: University of Wisconsin-Madison
-    year: "2024""
+    year: "2024"
 email: ""
 first_name: Álvaro
 highlight_name: true
