@@ -44,5 +44,5 @@ Hello there! My name is **Álvaro Cabrera**, a **PhD candidate in Sociology** at
 {style="text-align: justify;"}
 
 
-In my free time I like to lift weights, play and watch football (soccer), and have a few drinks when the opportunity arises.
+In my free time I like to lift weights, play and watch football (soccer), especially if it's related to the team I support, Universidad de Chile, and have a few drinks when the opportunity arises.
 {style="text-align: justify;"}
