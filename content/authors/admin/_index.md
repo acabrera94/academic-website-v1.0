@@ -28,24 +28,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/alvarocabrera94
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=RpY_rN0AAAAJ&hl=es&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/acabrera94
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/acbm94/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
 status:
   icon:
 superuser: true
