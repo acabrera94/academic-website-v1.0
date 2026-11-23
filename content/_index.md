@@ -2,7 +2,7 @@
 title: Home
 type: landing
 sections:
-  - block: about.avatar
+  - block: about.biography
     id: about
     content:
       username: admin
