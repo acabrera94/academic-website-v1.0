@@ -31,10 +31,12 @@ share: false
 **Graduate Student Instructor**, *Introduction to Sociological Theory (SOC 305)*, Fall 2025
 
 <details>
-<summary>Student testimonials (1)</summary>
+<summary>Student testimonials (2)</summary>
 
 > "Alvaro was extremely helpful in my understanding of this course. Overall he is one of the best GSIs I have ever had due to his advocacy for students, well-thought out and simple explanation, and general approachableness. His sections greatly advanced my understanding of course content and increased my desire to engage with the content through his application. I appreciated how every assignment was discussed in detail to ensure understanding and that he boiled down each concept to a core takeaway. As someone pursuing an area of study completely different from sociology, he helped frame concepts in a way that was digestible and allowed me to separate my contrasting background."
 >
 > — Student, SOC 305, Fall 2025
-
+>
+> "I like how Alvaro granted us so much choice in deciding how discussion sections would go for a given day. I also like how the writing and group exercises we did prepared us so well for the course essay, quizzes, and final exam. Alvaro always came with a great attitude and used contemporary examples that made understanding more complex aspects of the theories digestible"
+> — Student, SOC 305, Fall 2025
 </details>
