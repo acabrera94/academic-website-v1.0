@@ -45,11 +45,6 @@ share: false
 <img src="/media/research/banker-wife.jpg" alt="The Money Changer and His Wife, by Quentin Matsys">
 <figcaption>The Money Changer and His Wife, Quentin Matsys, 1514. Musée du Louvre. Public domain, via Wikimedia Commons.</figcaption>
 </figure>
-</div>
-</div>
-
-</div>
-<div class="research-side">
 <figure>
 <img src="/media/research/iron-mill.jpg" alt="The Iron Rolling Mill, by Adolph Menzel">
 <figcaption>The Iron Rolling Mill, Adolph Menzel, 1872-75. Alte Nationalgalerie, Berlin. Public domain, via Wikimedia Commons.</figcaption>

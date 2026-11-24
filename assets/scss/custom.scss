@@ -34,3 +34,4 @@
 }
 @media (max-width:768px){ .research-layout { flex-direction:column; width:100%; left:0; transform:none; .research-side{position:static;width:100%;} } }
 .article-style:has(.research-layout) { overflow:visible; }
+.research-side figure + figure { margin-top:1.5rem; }
