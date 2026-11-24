@@ -46,4 +46,5 @@ My **research interests** are broadly aligned with economic sociology, political
 In my free time, I like to lift weights, play and watch football (soccer), especially if it's related to the team I support, Universidad de Chile, and have a few drinks when the opportunity arises.
 {style="text-align: justify;"}
 
-Lastly, and most importantly, the handsome in the picture is **Hugo**, and he's about to turn 10 years old.{style="text-align: justify;"}
+Lastly, and most importantly, the handsome in the picture is **Hugo**, and he's about to turn 10 years old.
+{style="text-align: justify;"}
