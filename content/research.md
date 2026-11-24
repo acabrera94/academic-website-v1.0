@@ -32,7 +32,7 @@ share: false
 
 <div class="research-card">
 <div class="research-title">Class antagonism in hard times: class position, local economic shocks and distributive conflict in Chile, 2016-2023</div>
-<div class="research-summary">How economic shocks affect conflicts over distribution in Chile.</div>
+<div class="research-summary">How economic shocks affect class conflicts over distribution in Chile.</div>
 <details>
 <summary>Abstract</summary>
 <p>Class conflict is often described as latent in ordinary times and as becoming visible when economic conditions worsen. I test this claim with the Chilean Longitudinal Social Survey (ELSOC), a seven-wave panel from 2016 to 2023. The panel spans the October 2019 social uprising, the COVID-19 recession, the cost-of-living crisis that followed, and two constitutional processes. I measure class position before these events, built from employment relations, firm size, supervision, and occupation. The outcomes are distributive attitudes that ELSOC asks in every wave: perceived and fair pay gaps between managers and unskilled workers, the view that income differences are too large, trust in unions and in private firms, and support for disruptive labor protest. An event-study difference-in-differences design with individual and wave fixed effects estimates whether class gaps in these attitudes widen after each crisis, using the pre-2019 waves to test for parallel trends. I then link respondents to local economic conditions, namely regional unemployment at the time of the interview and commune (comuna) poverty estimates, to ask whether class gaps widen most where the economic shock was largest.</p>
