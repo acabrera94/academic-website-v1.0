@@ -47,3 +47,12 @@ share: false
 </figure>
 </div>
 </div>
+
+</div>
+<div class="research-side">
+<figure>
+<img src="/media/research/iron-mill.jpg" alt="The Iron Rolling Mill, by Adolph Menzel">
+<figcaption>The Iron Rolling Mill, Adolph Menzel, 1872-75. Alte Nationalgalerie, Berlin. Public domain, via Wikimedia Commons.</figcaption>
+</figure>
+</div>
+</div>
