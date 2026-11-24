@@ -25,10 +25,12 @@
 @media (max-width:768px){ .research-card.with-media { flex-direction:column; .research-media{flex-basis:auto;width:100%;} } }
 
 /* Research page: cards in a left column, photo in a right column */
-.research-layout { display:flex; gap:2rem; align-items:flex-start;
-  .research-column { flex:1 1 62%; min-width:0; }
-  .research-side { flex:0 0 33%; position:sticky; top:90px;
+.research-layout { display:flex; gap:2.5rem; align-items:flex-start;
+  width:94vw; max-width:1200px; position:relative; left:50%; transform:translateX(-50%);
+  .research-column { flex:1 1 55%; min-width:0; }
+  .research-side { flex:0 0 42%; position:sticky; top:90px;
     img { width:100%; height:auto; border-radius:6px; }
     figcaption { font-size:.8rem; opacity:.75; margin-top:.4rem; } }
 }
-@media (max-width:768px){ .research-layout { flex-direction:column; .research-side{position:static;width:100%;} } }
+@media (max-width:768px){ .research-layout { flex-direction:column; width:100%; left:0; transform:none; .research-side{position:static;width:100%;} } }
+.article-style:has(.research-layout) { overflow:visible; }
