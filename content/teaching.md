@@ -10,7 +10,7 @@ share: false
 
 ## University of Michigan
 
-**Graduate Student Instructor**, *Introduction to Sociological Theory* (Winter 2026)
+**Graduate Student Instructor**, *Introduction to Sociological Theory (SOC 305)*, Winter 2026
 
 <details>
 <summary>Student testimonials (2)</summary>
@@ -25,7 +25,7 @@ share: false
 
 </details>
 
-**Graduate Student Instructor**, *Introduction to Sociological Theory* (Fall 2025)
+**Graduate Student Instructor**, *Introduction to Sociological Theory (SOC 305)*, Fall 2025
 
 <details>
 <summary>Student testimonials (1)</summary>
