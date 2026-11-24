@@ -10,6 +10,9 @@ share: false
 
 ## University of Michigan
 
+**Graduate Student Instructor**, *Sociological Research Methods (SOC 310)*, Fall 2026--present 
+
+
 **Graduate Student Instructor**, *Introduction to Sociological Theory (SOC 305)*, Winter 2026
 
 <details>
