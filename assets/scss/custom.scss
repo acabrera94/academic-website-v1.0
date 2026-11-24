@@ -14,3 +14,12 @@
   details summary { cursor: pointer; color: var(--primary, #1565c0); font-weight: 500; }
   details[open] summary { margin-bottom: 0.6rem; }
 }
+
+/* Card with text on the left and photos on the right */
+.research-card.with-media { display:flex; gap:1.5rem; align-items:flex-start;
+  .research-text { flex:1 1 60%; min-width:0; }
+  .research-media { flex:0 0 35%; display:flex; flex-direction:column; gap:.75rem;
+    img { width:100%; height:auto; border-radius:6px; }
+    figcaption { font-size:.8rem; opacity:.75; } }
+}
+@media (max-width:768px){ .research-card.with-media { flex-direction:column; .research-media{flex-basis:auto;width:100%;} } }
