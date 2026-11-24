@@ -31,7 +31,7 @@ share: false
 </div>
 
 <div class="research-card">
-<div class="research-title">Class antagonism in hard times: class position, local economic shocks and distributive conflict in Chile, 2016-2023</div>
+<div class="research-title">Class antagonism in hard times: class location, local economic shocks and distributive conflict in Chile, 2016-2023</div>
 <div class="research-summary">How economic shocks affect class conflicts over distribution in Chile.</div>
 <details>
 <summary>Abstract</summary>
