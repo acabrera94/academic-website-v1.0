@@ -24,7 +24,7 @@ role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: /contact/
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=RpY_rN0AAAAJ&hl=es&authuser=1
