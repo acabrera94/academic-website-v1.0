@@ -19,3 +19,8 @@ share: false
 > "I liked how interactive Alvaro was when teaching. He used a lot of humor and pop culture references to explain content. I truly think his lecture style helped me understand the content better. He was also really good at answering questions or clarifying when needed! I appreciated the old school style of writing on the chalkboard."
 >
 > — Student, SOC 305, Winter 2026
+> 
+>
+>"I love the engaging atmosphere during our discussion. Alvaro also did a lot of little questions and "polls" that helped me stay engaged and interested in the topic and participate more than I have in any other discussion section."
+>
+> — Student, SOC 305, Winter 2026
