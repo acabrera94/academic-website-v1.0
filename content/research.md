@@ -9,13 +9,21 @@ share: false
 
 ## Work in Progress
 
-<div class="research-card">
+<div class="research-card with-media">
+<div class="research-text">
 <div class="research-title">Bringing Back What Should Have Never Left: Class Relations, Class Structure, and Political Participation</div>
 <div class="research-summary">How exploitative and antagonistic class relations shape political participation across 33 countries.</div>
 <details>
 <summary>Abstract</summary>
 <p>While the link between social class and politics is well established in sociology, much research has focused on describing differences in political behavior that arise from class structure rather than the mechanisms behind the structuration of class structure itself. This article addresses this gap by examining the mechanisms that structure class structure and how it shapes political participation. By exploring the neo-Marxist tradition, which treats exploitative and antagonistic class relations as key defining variables of class structure, this article suggests that exploitation acts as a barrier to political engagement and that antagonism between classes helps explain the gap in participation levels. Drawing on data from the ISSP 2014 Survey (N = 24,199) across 33 countries and using multivariate regressions and matching, I find that political participation declines at lower positions in the class structure and that the largest difference in political activity is between the capitalist class and the traditional proletariat, the two ends of the structure.</p>
 </details>
+</div>
+<div class="research-media">
+<figure>
+<img src="/media/research/banker-wife.jpg" alt="The Money Changer and His Wife, by Quentin Matsys">
+<figcaption>The Money Changer and His Wife, Quentin Matsys, 1514. Musée du Louvre. Public domain, via Wikimedia Commons.</figcaption>
+</figure>
+</div>
 </div>
 
 <div class="research-card">
