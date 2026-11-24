@@ -23,11 +23,6 @@ share: false
 <div class="research-summary">A review of how economic sociology has engaged with capitalism, and a case for bringing back the study of accumulation processes from an historical perspective.</div>
 <details>
 <summary>Abstract</summary>
-<<<<<<< HEAD
-This article reviews the main debates that have defined economic sociology as a field, focusing on how they have addressed capitalism as an economic system. I argue that economic sociology has been successful in challenging economics by showing that the economy is embedded in, and depends on, social structures. In doing so, however, it has left behind what I call the "historical economic sociology of capitalism": a tradition that seeks to understand not only the social within the economic, but above all the patterns of capitalist accumulation from an historical perspective.
-</details>
-=======
 <p>This article reviews the main debates that have defined economic sociology as a field, focusing on how they have addressed capitalism as an economic system. I argue that economic sociology has been successful in challenging economics by showing that the economy is embedded in, and depends on, social structures. In doing so, however, it has left behind what I call the "historical economic sociology of capitalism": a tradition that seeks to understand not only the social within the economic, but above all the patterns of capitalist accumulation from a historical perspective.</p>
 </details>
 </div>
->>>>>>> 91af32d317d518c9381f5c76e1616ce5b28c151d
